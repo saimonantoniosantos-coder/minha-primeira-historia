@@ -1,4 +1,4 @@
-# meinha-primeira-história
+# Minha-primeira-história
 Hoje aconteceu uma coisa muito estranha com minha família e estavamos em um dia normal como sempre estavamos trbalhando com o nosso ramo de leite. 
 <img width="900" height="400" alt="image" src="https://github.com/user-attachments/assets/cb356d19-6460-41c5-902d-1fb18c0a7704" />
 
