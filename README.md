@@ -1,4 +1,7 @@
 # Minha-primeira-história
+
+  <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/e4d24670-fbf0-4010-82cf-c25868f6d104" />
+
 Hoje aconteceu uma coisa muito estranha com minha família e estavamos em um dia normal como sempre estavamos trbalhando com o nosso ramo de leite. 
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/cb356d19-6460-41c5-902d-1fb18c0a7704" />
@@ -21,4 +24,6 @@ E assim aprendi que as coisas nem sempre dão certo e nem sempre dão errado bas
 
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/8ad6aa2c-55e9-4391-8297-39b2990c9de7" />
 
-                                                                FIM
+                                                         FIM
+
+Essa história foi de uma superasão com ajuda do agro forte que é Financiamento no Campo: É o nome de uma fintech focada em crédito desburocratizado para pequenos e médios produtores.Infraestrutura Agrícola: Refere-se a empresas do setor de armazenagem e beneficiamento de grãos.Conceito de Sustentabilidade: Expressão usada para definir o equilíbrio entre alta produtividade no campo e a conservação do meio ambiente.
